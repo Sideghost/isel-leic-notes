@@ -127,7 +127,7 @@ There are **two versions** of WSL:
 _Docker uses a client-server architecture: the **Docker client** talks to the **Docker daemon**, which does the heavy lifting of building, running, and distributing your Docker containers._
 
 <p align="center">
-    <img src="https://docs.docker.com/engine/images/architecture.svg" alt="docker-architecture" align="center"/>
+    <img src="https://docs.docker.com/get-started/images/docker-architecture.webp" alt="docker-architecture" align="center"/>
 </p>
 
 * **Docker Client** (`docker`) - the primary way that many Docker users interact with Docker;
